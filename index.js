@@ -4,4 +4,6 @@ function greet(){
     return "Hello World";
 }
 
+let school = "Study"
+console.log(school)
 
